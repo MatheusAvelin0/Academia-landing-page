@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'oswald';
+    src: url('Oswald-Regular.ttf') format('truetype');
+  }
+
+
+#titulo1{
+    text-align: center;
+    font-size: 260% ;
+    font-weight: bold; 
+    font-family: 'oswald',Arial, Helvetica, sans-serif
+}
+   
+#cadastro{
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+text-align:center;
+font-size: larger;
+}
+
+#texto1{
+    text-align: center;
+    font-size: 100% ;
+    font-weight: bold; 
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+    color: yellow;
+    background-color: black;
+    
+}
+    
+
+
+
+.navbar-menu{
+    font-family: 'oswald',Arial, Helvetica, sans-serif
+}
+
+
+
+.texto2{
+    font-size: 100% ;
+    font-weight: bold; 
+    font-family: 'oswald',Arial, Helvetica, sans-serif
+   
+}
+
+#li1{
+    font-family: 'oswald',Arial, Helvetica, sans-serif
+}
+
+#li2{
+    font-family: 'oswald',Arial, Helvetica, sans-serif
+}
+
+#li3{
+    font-family: 'oswald',Arial, Helvetica, sans-serif
+}
+
+#textozumba{
+    font-family: 'oswald',Arial, Helvetica, sans-serif
+}
+
+#quem1{
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+    font-size: 256%;
+    
+    
+}
+
+#zumba{
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+    
+}
+
+#zumba2{
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+  
+}
+#zumba3{
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+}
+
+#fit{
+    text-align: center;
+    font-size: 300% ;
+    font-weight: bold; 
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+   
+}
+
+#fit2{
+    text-align: center;
+    font-size: 100% ;
+    font-weight: bold; 
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+   
+}
+#fit3{
+    text-align: center;
+    font-size: 300% ;
+    font-weight: bold; 
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+   
+}
+
+#fit4{
+    text-align: center;
+    font-size: 100% ;
+    font-weight: bold; 
+    font-family: 'oswald',Arial, Helvetica, sans-serif;
+   
+}
+
+
+
+
+
